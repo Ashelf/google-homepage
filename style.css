@@ -1,0 +1,21 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 190px;
+}
+
+.searchbar {
+  text-align: center;
+  width: 100%;
+  padding-top: 25px;
+  padding-left: 7px;
+  border-color: gray;
+}
+
+.searchbar input {
+  width: 585px;
+  height: 39px;
+  font-family: Arial;
+  font-size: 16px;
+}
